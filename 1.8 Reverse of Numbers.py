@@ -1,5 +1,5 @@
 # program for reverse of a number
-num = 96
+num = int(input("Enter a number: "))
 i=0
 rev=0
 while num>0:

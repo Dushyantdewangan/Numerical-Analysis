@@ -1,4 +1,4 @@
-# left and right numbers
+# left and right shift
 a=int(input("Enter a "))
 b=int(input("Enter b "))
 a=a<<2

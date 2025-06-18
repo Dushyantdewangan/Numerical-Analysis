@@ -1,5 +1,5 @@
 # program for the sum of the digits
-num=25
+num= int(input("Enter a number: "))
 sum=0
 while num>0:
     n=num%10
