@@ -1,0 +1,1 @@
+# program for sum of first 5 natural number
